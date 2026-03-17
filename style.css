@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{ 
+  font-family: "Young Serif", serif;
+}
+.containar{
+    padding: 50px;
+}
+.sect-a{
+    background-color: black;
+    color: azure;
+    padding: 20px;
+}
+.sect-a-cont{
+    background-color: orangered;
+    color: azure;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.sect-a-name{
+    font-size: 60px;
+    
+}
+.sect-a-role{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.sect-b,.sect-c,.sect-d,.sect-f{
+    margin-top: 20px;
+}
+.sect-b-des,.sect-c-des,.sect-d-des,.sect-f-des{
+    margin-top: 10px;
+}
+.seat-f{
+    color: azure;
+    background-color: black;
+    padding: 20px;
+}
+.sect-f-title a{
+    color: aqua;
+}
+
+.sect-c-des,.sect-d li{
+    list-style: none;
+
+}
+.sect-c{
+    background-color: #6462fd;
+    color: black;
+    display: inline-block;
+    padding: 20px;
+    height: 175px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.sect-d{
+    background-color:#fe7517;
+    display: inline-block;
+    padding: 20px;
+    height: 175px;
+    border-radius: 10px;
+}
+.sect-f{
+    margin-top:10px ;
+    border-top:10px;
+}
+.a{
+    background-color: black;
+    color: white;
+}
+.c{
+    background-color: black;
+    color: white;}
+.contect-form{
+    margin-top: 20px;
+}
+.contect-form-input,.contect-form-are,.contect-form-sub{
+    margin-top: 10px;
+}
+.contect-form-input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid 1px;
+    
+}
+.contect-form-are{
+    padding: 10px;
+    border: none;
+    border: solid 1px;
+}
+.contect-form-sub{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:orangered;
+    color: black ;
+    border: none;
+}
